@@ -13,4 +13,4 @@ cd Tad-s-python-project
 
 4. Run the project:
 
-python main.py
+python new.py
